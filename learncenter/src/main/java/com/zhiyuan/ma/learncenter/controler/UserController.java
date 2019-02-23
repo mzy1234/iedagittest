@@ -16,6 +16,14 @@ public class UserController {
    public String getUser(){
 
       userService.getUserById();
+      System.out.println("hdfhghfdgfd");
+      System.out.println("hdfhghfdgfd");
+      System.out.println("hdfhghfdgfd");
+      System.out.println("hdfhghfdgfd");
+      System.out.println("hdfhghfdgfd");
+      System.out.println("hdfhghfdgfd");
+      System.out.println("hdfhghfdgfd");
+      System.out.println("hdfhghfdgfd");
       return null;
    }
 
