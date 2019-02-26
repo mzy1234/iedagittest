@@ -17,6 +17,8 @@ public class FileDemo1 {
             }else if(file1.isDirectory()){
                 System.out.println("---"+file1.getName());
                 getFile(file1);
+
+
             }
         }
     }
